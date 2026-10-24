@@ -1,8 +1,10 @@
 ## Chris Boyke
 
-Principal Solution Engineer at [commercetools](https://commercetools.com). I build the
-demos and evaluation environments enterprise retailers use to decide whether composable
-commerce is right for them — B2C, B2B, B2B2C, marketplace and omnichannel.
+Principal Solution Engineer at [commercetools](https://commercetools.com), and the
+technical lead on our side of enterprise commerce evaluations. I work with manufacturers,
+distributors, healthcare and life sciences organizations, and retailers on architecture,
+migration planning, business cases and proofs of concept — helping them decide whether
+composable commerce is right for them, and what it would take to get there.
 
 When something I build generalises beyond one customer, I publish it to
 [**ct-builders**](https://github.com/ct-builders) as an MIT-licensed reference
