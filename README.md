@@ -42,9 +42,9 @@ reporting admin.
 
 ### What I think about
 
-Agentic engineering applied to technical pre-sales — using AI coding tools to build
-customer-specific demos in days rather than weeks, and building the starters, tooling
-and instrumentation that let a field team do the same. Most of the leverage turns out to
+Agentic engineering applied to technical pre-sales — using AI coding tools to build a
+customer-specific demo in a couple of hours, and building the starters, tooling and
+instrumentation that let a field team do the same. Most of the leverage turns out to
 be in the scaffolding, not the demo.
 
 Happy to compare notes on composable or agentic commerce, B2B self-service buying, or
